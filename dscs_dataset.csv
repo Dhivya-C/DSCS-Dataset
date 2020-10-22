@@ -1,0 +1,51 @@
+﻿Sno,Sentence_1,Sentence_2,Final Similarity
+1,The study of computation and information. ,"The study of manipulating, managing, transforming and encoding information.",3.60
+2,The study of computation and information. ,A branch of science that deals with the theory of computation or the design of computers,3.67
+3,A program can be a plan of how to do something,A branch of science that deals with the theory of computation or the design of computers,0.87
+4,"A finite sequence of well-defined, computer-implementable instructions, typically to solve a class of problems or to perform a computation",A specific set of instructions or steps on how to complete a task.,4.00
+5,"A finite sequence of well-defined, computer-implementable instructions, typically to solve a class of problems or to perform a computation",A procedure for solving a mathematical problem in a finite number of steps that frequently involves repetition of an operation,3.20
+6,"A data organization, management, and storage format that enables efficient access and modification.",A specific set of instructions or steps on how to complete a task.,0.87
+7,A set of instructions used to control the behavior of a machine.,A program can be a plan of how to do something,2.13
+8,A set of instructions used to control the behavior of a machine.,A sequence of coded instructions that can be inserted into a mechanism,3.27
+9,"The study of manipulating, managing, transforming and encoding information.",A sequence of coded instructions that can be inserted into a mechanism,1.87
+10,"A data organization, management, and storage format that enables efficient access and modification.",The organization and implementation of values and information.,2.47
+11,A procedure for solving a mathematical problem in a finite number of steps that frequently involves repetition of an operation,Various methods or formats for organizing data in a computer,0.60
+12,The organization and implementation of values and information.,Various methods or formats for organizing data in a computer,2.53
+13,"The intelligence demonstrated by machines, unlike the natural intelligence displayed by humans and animals.",The ability of a computer program or a machine to think and learn.,3.67
+14,"The intelligence demonstrated by machines, unlike the natural intelligence displayed by humans and animals.",A branch of computer science dealing with the simulation of intelligent behavior in computers,3.07
+15,The ability of a computer program or a machine to think and learn.,A branch of computer science dealing with the simulation of intelligent behavior in computers,3.67
+16,The process of designing and building an executable computer program to accomplish a specific computing result.,A software that controls the operation of a computer and directs the processing of programs,2.40
+17,The process of designing and building an executable computer program to accomplish a specific computing result.,The process of preparing an instructional program for a device,3.00
+18,The process of telling a computer to do certain things by giving it instructions.,The process of preparing an instructional program for a device,3.40
+19,"A system software that manages computer hardware, software resources, and provides common services for computer programs.","A group of computer programs, including device drivers, kernels, and other software that lets people interact with a computer.",2.80
+20,"A system software that manages computer hardware, software resources, and provides common services for computer programs.",The process of telling a computer to do certain things by giving it instructions.,1.73
+21,"A group of computer programs, including device drivers, kernels, and other software that lets people interact with a computer.",A software that controls the operation of a computer and directs the processing of programs,3.27
+22,"An organized collection of data, generally stored and accessed electronically from a computer system. ",A system for storing and taking care of data,3.67
+23,"An organized collection of data, generally stored and accessed electronically from a computer system. ","A set of rules and methods that describe the functionality, organization, and implementation of computer systems.",1.60
+24,A system for storing and taking care of data,A large collection of data organized especially for rapid search and retrieval,2.87
+25,"A set of rules and methods that describe the functionality, organization, and implementation of computer systems.",The conceptual design and fundamental operational structure of a computer system.,3.27
+26,A large collection of data organized especially for rapid search and retrieval,The manner in which the components of a computer or computer system are organized and integrated,1.13
+27,The conceptual design and fundamental operational structure of a computer system.,The manner in which the components of a computer or computer system are organized and integrated,3.93
+28,An informal high-level description of the operating principle of a computer program or other algorithm.,A description of the source code of a computer program or an algorithm in a language easily understood by humans.,3.93
+29,An informal high-level description of the operating principle of a computer program or other algorithm.,a formal language comprising a set of instructions that produce various kinds of output.,2.07
+30,A description of the source code of a computer program or an algorithm in a language easily understood by humans.,A program code unrelated to the hardware of a particular computer and requiring conversion to the code used by the computer before the program can be used.,2.80
+31,a formal language comprising a set of instructions that produce various kinds of output.,a type of written language that tells computers what to do in order to work.,3.60
+32,A program code unrelated to the hardware of a particular computer and requiring conversion to the code used by the computer before the program can be used.,various high-level languages used for computer programs,2.33
+33,a type of written language that tells computers what to do in order to work.,various high-level languages used for computer programs,3.80
+34,"The discovery, interpretation, and communication of meaningful patterns in data.","The process of discovering, interpreting, and communicating significant patterns in data to get meaningful information.",4.27
+35,"The discovery, interpretation, and communication of meaningful patterns in data.",A branch of information technology which is intended to protect computers. ,0.60
+36,"The protection of computer systems and networks from the theft of or damage to their hardware, software, or electronic data.",A branch of information technology which is intended to protect computers. ,3.73
+37,"The protection of computer systems and networks from the theft of or damage to their hardware, software, or electronic data.","The process of discovering, interpreting, and communicating significant patterns in data to get meaningful information.",0.33
+38,"A type of computer program that, when executed, replicates itself by modifying other computer programs and inserting its own code.",A program that is able to copy itself when it is run and can also  execute instructions that cause harm.,4.27
+39,The practice of storing regularly used computer data on multiple servers that can be accessed through the Internet,"A computer program that is usually disguised as an innocuous program or file, that often produces copies of itself and inserts them into other programs performing a malicious action",0.13
+40,"The on-demand availability of computer system resources, especially data storage and computing power, without direct active management by the user.",Computing services provided by a company or place outside of where they are being used.,2.73
+41,"The on-demand availability of computer system resources, especially data storage (cloud storage) and computing power, without direct active management by the user.",The practice of storing regularly used computer data on multiple servers that can be accessed through the Internet,2.60
+42,Computing services provided by a company or place outside of where they are being used.,"A type of computer program that, when executed, replicates itself by modifying other computer programs and inserting its own code.",0.47
+43,A program that is able to copy itself when it is run and can also  execute instructions that cause harm.,"A computer program that is usually disguised as an innocuous program or file, that often produces copies of itself and inserts them into other programs performing a malicious action",4.33
+44,"A piece of computer hardware or software that provides functionality for other programs or devices, called ""clients"".",A computer that serves many kinds of information to a user or client machine.,3.60
+45,"A piece of computer hardware or software that provides functionality for other programs or devices, called ""clients"".",A computer in a network that is used to provide services to other computers in the network,2.87
+46,A network security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules.,A piece of software that monitors the network traffic between the inside and outside.,4.20
+47,A network security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules.,A computer hardware or software that prevents unauthorized access to private data by outside computer users,3.40
+48,A computer that serves many kinds of information to a user or client machine.,A piece of software that monitors the network traffic between the inside and outside.,1.20
+49,A computer in a network that is used to provide services to other computers in the network,A computer hardware or software that prevents unauthorized access to private data by outside computer users,0.87
+50,A data point that differs significantly from other observations.,A statistical observation that is markedly different in value from the others of the sample,4.13
